@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The4D6
 - 👀 I’m interested in anything you're willing to teach me! (Within reason)
-- 🌱 I’m currently learning Go and BizTalk server
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m not specifically looking to collab on anything at the moment, but I won't turn down exciting work.
 - 📫 How to reach me: Message me on here!
 
